@@ -1,0 +1,6 @@
+node elven-tools-cli/build/index.js derive-pem
+node elven-tools-cli/build/index.js deploy nft-minter
+node elven-tools-cli/build/index.js nft-minter issue-collection-token
+node elven-tools-cli/build/index.js nft-minter set-roles
+node elven-tools-cli/build/index.js nft-minter enable-whitelist 
+
